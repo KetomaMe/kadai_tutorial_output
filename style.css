@@ -2,7 +2,7 @@
 body {
   max-width: 1080px;
   margin: 0 auto 0 auto;
-  font-family: "Source Sans Pro", "Hiragino Kaku Gothic ProN", Meiryo, Arial, sans-serif;
+    font-family: "Source Sans Pro", "Hiragino Kaku Gothic ProN", Meiryo, Arial, sans-serif;
 }
 
 /* ヘッダー */
@@ -25,6 +25,7 @@ header {
   list-style: none;
 }
  
+/* ナビゲーションのリンクの装飾設定 */
 #nav-pc a {
   text-decoration: none;
   margin-left: 20px;
